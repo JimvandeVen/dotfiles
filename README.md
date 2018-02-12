@@ -1,4 +1,4 @@
-# dotfiles
+# Dotfiles
 
 Hey there, My name is Jim van de Ven. Here you will find my personal cofigurations for my tools that i will be using for development. 
 ## Contents
@@ -25,7 +25,7 @@ Installation of a .bashrc to customize your terminal:
 
 ## npm
 
-NPM is necessary to install cowsay command. To install npm go to your cd ~ directory and run `apt npm install`. This will take a few moments.
+npm is necessary to install cowsay command. To install npm go to your cd ~ directory and run `apt npm install`. This will take a few moments.
 
 ## Cowsay
 
